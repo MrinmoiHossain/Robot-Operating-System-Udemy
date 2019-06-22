@@ -9,3 +9,4 @@
 - Eclipse for ROS: http://cs460.coins-lab.org/index.php?title=Eclipse
 - Turtlesim Tutorial: http://wiki.ros.org/turtlesim
 - ROS msg: http://wiki.ros.org/msg
+- Writing a Simple Service and Client (C++): http://wiki.ros.org/ROS/Tutorials/WritingServiceClient%28c%2B%2B%29
