@@ -1,0 +1,2 @@
+set(IoTSensor_MESSAGE_FILES "/home/mrinmoi/Udemy_ROS/catkin_ws/src/IoTSensor/msg/IoTSensor.msg")
+set(IoTSensor_SERVICE_FILES "")

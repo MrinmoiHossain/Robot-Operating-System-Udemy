@@ -1,0 +1,8 @@
+prefix=/home/mrinmoi/Udemy_ROS/catkin_ws/devel
+
+Name: IoTSensor
+Description: Description of IoTSensor
+Version: 0.0.0
+Cflags: -I/home/mrinmoi/Udemy_ROS/catkin_ws/devel/include -I/home/mrinmoi/Udemy_ROS/catkin_ws/src/rosSensorMessage/include
+Libs: -L/home/mrinmoi/Udemy_ROS/catkin_ws/devel/lib -lIoTSensor
+Requires: roscpp rospy std_msgs message_runtime
