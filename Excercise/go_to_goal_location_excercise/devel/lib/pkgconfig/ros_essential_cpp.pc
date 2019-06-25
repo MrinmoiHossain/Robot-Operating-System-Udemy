@@ -1,0 +1,8 @@
+prefix=/home/mrinmoi/Udemy_ROS/catkin_ws/devel
+
+Name: ros_essential_cpp
+Description: Description of ros_essential_cpp
+Version: 0.0.0
+Cflags: -I/home/mrinmoi/Udemy_ROS/catkin_ws/devel/include -I/home/mrinmoi/Udemy_ROS/catkin_ws/src/ros_essential_cpp/include
+Libs: -L/home/mrinmoi/Udemy_ROS/catkin_ws/devel/lib -lros_essential_cpp
+Requires: roscpp rospy std_msgs message_generation
